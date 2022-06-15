@@ -1,0 +1,17 @@
+PLOT IMAGE NAMING CONVENTION (plots folder)
+
+1D
+
+At_Bks_randomness.png
+
+A = number of trials, B = number of thousand timesteps
+Randomness = rd (random distributions), rp (random starting position), rpd 
+(random both)
+
+Assume the following unless otherwise specified
+
+vx = 0.995
+ppc = 10
+c_omp = 10
+cc = 0.5
+
